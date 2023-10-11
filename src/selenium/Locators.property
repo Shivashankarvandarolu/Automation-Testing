@@ -1,0 +1,11 @@
+Selenium Locators:
+	ID
+	Name
+	Classname
+	CSSSelector
+	Xpath
+	Tagname
+	LinkText
+	PartialLinkText
+	
+	

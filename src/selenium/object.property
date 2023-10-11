@@ -1,0 +1,22 @@
+Open URL=https://practice.automationtesting.in/test-cases/
+linkText=REGISTER
+First Name=firstName
+Last Name=lastName
+Phone number=phone
+Email ID=//input[@name="userName"]
+Address=address1
+City name=city
+State name=state
+Postal Code=postalCode
+Country=//select[@name="country"]
+User Name=email
+Password=password
+Confirm Password=confirmPassword
+linkText=Home
+name=userName
+name=password
+name=submit
+shop=Shop
+home=Home
+
+
